@@ -1,6 +1,7 @@
 # Twitter QR Code Generator
 
 A simple web application that generates QR codes for Twitter posts. When scanned, these QR codes automatically open Twitter with a pre-formatted tweet ready to be posted.
+PS: This was built during workshop for TechMang25!
 
 ## Features
 
